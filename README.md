@@ -1,4 +1,4 @@
-# Image Recognition Project
+# Human Action Recognition (HAR) Project
 
 This project demonstrates the implementation of an image recognition system using deep learning techniques, specifically Convolutional Neural Networks (CNNs). The primary objective is to accurately classify images into predefined categories.
 
@@ -73,5 +73,3 @@ pip install tensorflow numpy matplotlib scikit-learn
 The notebook includes visualizations of the training process, accuracy, loss, and a confusion matrix to assess the model's performance. These visualizations provide insights into the model's learning behavior and its effectiveness in classifying images.
 
 ---
-
-*Note: This README is based on the general structure of image recognition projects and may need adjustments to align with the specific details of your project.* 
