@@ -6,6 +6,8 @@ This project demonstrates the implementation of an image recognition system usin
 
 The project encompasses the following key components:
 
+- **Dataset**: This project uses the Stanford 40 Actions dataset, which contains images of 40 different human actions, such as "climbing," "dancing," "drinking," "eating," etc. You can download the dataset from [here](http://vision.stanford.edu/Datasets/40actions.html).
+
 - **Data Preparation**: Organizing and preprocessing the image dataset to ensure it is suitable for training the CNN model.
 
 - **Model Development**: Constructing a CNN architecture tailored for image classification tasks using pre-trained models.
@@ -72,4 +74,12 @@ pip install tensorflow numpy matplotlib scikit-learn
 
 The notebook includes visualizations of the training process, accuracy, loss, and a confusion matrix to assess the model's performance. These visualizations provide insights into the model's learning behavior and its effectiveness in classifying images.
 
----
+## References
+
+- [Stanford 40 Actions Dataset](http://vision.stanford.edu/Datasets/40actions.html)
+
+- [Keras Documentation](https://keras.io/)
+
+- [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
+
+- [ResNet50 Model](https://keras.io/api/applications/resnet/)
